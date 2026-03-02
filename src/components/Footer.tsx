@@ -1,5 +1,5 @@
 import React from 'react';
-import { Logo } from './Logo';
+
 import { Facebook, Instagram } from 'lucide-react';
 
 export const Footer = () => {
@@ -43,7 +43,7 @@ export const Footer = () => {
     <Instagram className="w-5 h-5" />
   </a>
 </div>
-        </div>
+            
         <div className="mt-12 pt-8 border-t border-white/5 text-center text-gray-600 text-xs">
           <p>© {new Date().getFullYear()} Evergrow Support Group. All rights reserved.</p>
         </div>

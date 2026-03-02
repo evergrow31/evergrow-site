@@ -12,7 +12,7 @@ export const Footer = () => {
           {/* Logo */}
           <div className="flex items-center gap-4">
             <img
-              src="https://i.imgur.com/OTL5Oda.png"
+              src={logo}
               alt="Evergrow Logo"
               className="w-16 h-16 rounded-lg object-contain"
             />

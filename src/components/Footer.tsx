@@ -43,7 +43,6 @@ export const Footer = () => {
   <Instagram className="w-5 h-5" />
 </a>
   
-            </a>
           </div>
         </div>
         

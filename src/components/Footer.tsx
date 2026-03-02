@@ -26,7 +26,6 @@ export const Footer = () => {
           </nav>
 
           <div className="flex gap-4">
-            <<div className="flex gap-4">
   <a
     href="#"
     className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-gray-400 hover:bg-white/10"
@@ -34,17 +33,15 @@ export const Footer = () => {
     <Facebook className="w-5 h-5" />
   </a>
 
-  <a 
-  href="https://instagram.com/evergrowsupportgroup"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-gray-400 hover:bg-white/10"
->
-  <Instagram className="w-5 h-5" />
-</a>
-  
-          </div>
-        </div>
+  <a
+    href="https://instagram.com/evergrowsupportgroup"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-gray-400 hover:bg-white/10"
+  >
+    <Instagram className="w-5 h-5" />
+  </a>
+</div>
         
         <div className="mt-12 pt-8 border-t border-white/5 text-center text-gray-600 text-xs">
           <p>© {new Date().getFullYear()} Evergrow Support Group. All rights reserved.</p>

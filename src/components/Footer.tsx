@@ -12,10 +12,10 @@ export const Footer = () => {
           {/* Logo */}
           <div className="flex items-center gap-4">
             <img
-              src={logo}
-              alt="Evergrow Logo"
-              className="w-16 h-16 rounded-lg object-contain"
-            />
+  src={logo}
+  alt="Evergrow Logo"
+  className="w-16 h-16 rounded-lg object-contain"
+/>
             <div>
               <h3 className="text-white font-bold text-xl">Evergrow</h3>
               <p className="text-gray-500 text-sm">Support Group</p>

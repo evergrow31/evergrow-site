@@ -11,10 +11,10 @@ export const Footer = () => {
 
           {/* Logo */}
           <div className="flex items-center gap-4">
-            <img
+            <<img
   src={logo}
   alt="Evergrow Logo"
-  className="w-16 h-16 rounded-lg object-contain"
+  className="w-16 h-16 object-contain"
 />
             <div>
               <h3 className="text-white font-bold text-xl">Evergrow</h3>

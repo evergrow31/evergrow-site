@@ -39,10 +39,9 @@ export const Footer = () => {
   target="_blank"
   rel="noopener noreferrer"
   className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-gray-400 hover:bg-white/10"
-    > 
-    <Instagram className="w-5 h-5" />
-  </a>
-</div>
+>
+  <Instagram className="w-5 h-5" />
+</a>
   
             </a>
           </div>

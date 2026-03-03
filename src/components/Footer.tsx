@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from "../assets/ELogo.png";
+import logo from "../assets/ELOgo.png";
 import { Facebook, Instagram } from 'lucide-react';
 
 export const Footer = () => {
